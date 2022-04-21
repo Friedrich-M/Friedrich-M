@@ -11,7 +11,7 @@
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Undergraduate Degree  
 - Taking online courses about Data Science and Machine Learning 
-- Scientific research training on Zju APRIL Lab 🚀 
+- Scientific research training on [ZJU APRIL Lab](https://github.com/APRIL-ZJU) and ZJUNlict Lab 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day

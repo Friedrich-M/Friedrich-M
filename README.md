@@ -1,9 +1,8 @@
 ### Hi there 👋 
-### This is Friedrich-M!
+### This is Friedrich-M! Welcome to my Github page!
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Friedrich-M)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
 
-Welcome to my Github page! I am Friedrich-M and I am currently finishing my Computer Engineering Undergraduate Degree at the Zhejiang University!
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">

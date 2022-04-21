@@ -38,7 +38,7 @@ Welcome to my Github page! I am Friedrich-M and I am currently finishing my Comp
         <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
       </td>
       <td width="250px" align="center">
-        <span><strong>Git</strong></span><br><br><br>
+        <span><strong>R</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
       </td>
   </tbody>

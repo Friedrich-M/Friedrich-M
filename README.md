@@ -52,7 +52,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-
   </tbody>
 </table>
 
@@ -62,8 +61,7 @@
   <a href="https://www.linkedin.com/in/hrishikesh-bhanja-9348a81b2/">
     <img align="left" alt="Jugal Bhatt | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:hrishipotter123@gmail.com">
-    <img align="left" alt="Jugal Bhatt | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:1197293057@qq.com">
   </a>
   
 <br>
@@ -74,4 +72,4 @@
 
 # THAT'S ME !
 
-⭐️ From [Hrishikesh-coder](https://github.com/Friedrich-M)
+⭐️ From [kaliv](https://github.com/Friedrich-M)

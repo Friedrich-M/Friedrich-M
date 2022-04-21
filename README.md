@@ -1,16 +1,24 @@
-# 👋🏻 Hey,
+### Hi there 👋 
+### This is Friedrich-M!
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Friedrich-M)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
+
+Welcome to my Github page! I am Friedrich-M and I am currently finishing my Computer Engineering Undergraduate Degree at the Zhejiang University!
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-# I am Friedrich-M. 
-<!-- ## I am a programmer
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Undergraduate Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Scientific research training on Zju APRIL Lab 🚀 
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I also know a bit of machine learning and AI . <br>
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br> -->
-
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
 
 ## My Tech Stack
 
@@ -24,6 +32,14 @@
       <td width="250px" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+      </td>
+      <td width="250px" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+      </td>
+      <td width="250px" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
       </td>
   </tbody>
 </table>

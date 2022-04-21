@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrich-M&theme=dark&layout=compact) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrich-M&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrich-M)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Friedrich-M/Friedrich-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

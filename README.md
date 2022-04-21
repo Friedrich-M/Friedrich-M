@@ -9,7 +9,7 @@
 </div>
 
 #### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Undergraduate Degree  
+- Finish my Control Science and Engineering Undergraduate Degree  
 - Taking online courses about Data Science and Machine Learning 
 - Scientific research training on [ZJU APRIL Lab](https://github.com/APRIL-ZJU) and ZJUNlict Lab 🚀 *coming soon*
 

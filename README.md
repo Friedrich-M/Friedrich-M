@@ -5,11 +5,11 @@
 </div>
 
 # I am Friedrich-M. 
-## I am a programmer
+<!-- ## I am a programmer
 
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I also know a bit of machine learning and AI . <br>
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in Java . 
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br> -->
 
 
 ## My Tech Stack
@@ -28,7 +28,7 @@
   </tbody>
 </table>
 
-![Friedrich-M's github stats](https://github-readme-stats.vercel.app/api/?username=Friedrich-M&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Friedrich-M's github stats](https://github-readme-stats.vercel.app/api/?username=Friedrich-M&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 # THAT'S ME !
 
-⭐️ From [kaliv](https://github.com/Friedrich-M)
+<!-- ⭐️ From [kaliv](https://github.com/Friedrich-M) -->

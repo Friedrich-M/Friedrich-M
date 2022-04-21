@@ -17,25 +17,14 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="250px" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
       </td>
-      <td width="50%" align="center">
+      <td width="250px" align="center">
         <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
       </td>
-     </tr>
-    <tr valign="top">
-      <td width="50%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img heigh="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="50%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 

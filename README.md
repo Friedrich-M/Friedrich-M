@@ -4,46 +4,48 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
 
 <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-#### 🌱 Things I am currently working on: 
-- Finish my CSE Undergraduate Degree（Currently studying in the first year 🚀）
-- Taking online courses about Data Science and Machine Learning 
-- Participating in scientific research training on [ZJU APRIL Lab](https://github.com/APRIL-ZJU) and ZJUNlict Lab 🚀 *coming soon*
+---
 
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+### :man_technologist: About Me :
+I am an undergraduate in Zhejiang University, like coding.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-## My Tech Stack
+- :telescope: I’m working on computer vision research.
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="250px" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="250px" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="250px" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-      </td>
-      <td width="250px" align="center">
-        <span><strong>R</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
-      </td>
-  </tbody>
-</table>
+- :seedling: Exploring Technical Content Writing.
 
-<!-- ![Friedrich-M's github stats](https://github-readme-stats.vercel.app/api/?username=Friedrich-M&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<!-- # THAT'S ME ! -->
+- :zap: In my free time, I watch movies of Marvel Studio. 🎥
+
+- :mailbox:How to reach me: moulz1031@gmail.com 📧
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Friedrich-M&theme=nord)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Friedrich-M&show_icons=true&theme=nord)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrich-M&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Friedrich-M&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ⭐️ From [kaliv](https://github.com/Friedrich-M) -->

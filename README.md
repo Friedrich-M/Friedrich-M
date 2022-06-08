@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-022?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Moulz1031)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 ---
 

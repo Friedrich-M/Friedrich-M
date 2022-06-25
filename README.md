@@ -14,11 +14,11 @@
 ### :man_technologist: About Me :
 I am an undergraduate in Zhejiang University.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m working on Data Science & Machine Learning Research.
+- :telescope: Working on Data Science & Machine Learning Research.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: Watch movies of Marvel Studio. 🎥
+- :zap: Watch Movies of Marvel Studio. 🎥
 
 - :mailbox:How to reach me: moulz1031@gmail.com 📧
 

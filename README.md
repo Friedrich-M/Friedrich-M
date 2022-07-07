@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Friedrich-M! Welcome to my Github page! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### This is Friedrich-M! Welcome to my Github page! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Friedrich-M)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
@@ -12,15 +12,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am an undergraduate in Zhejiang University.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am an undergraduate in Zhejiang University.
 
 - :telescope: Working on Data Science & Machine Learning Research.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: Watch Movies of Marvel Studio. 🎥
+- :zap: Watch Movies of Marvel Studio. 
 
-- :mailbox:How to reach me: moulz1031@gmail.com 📧
+- :mailbox:How to reach me: moulz1031@gmail.com 
 
 ---
 

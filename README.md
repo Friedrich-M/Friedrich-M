@@ -14,11 +14,7 @@
 ### :man_technologist: About Me :
 I am an undergraduate in Zhejiang University.
 
-- :telescope: Working on Data Science & Machine Learning Research.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: Watch Movies of Marvel Studio. 
+- :telescope: Working on Computer Vision & Machine Learning Research. 
 
 - :mailbox:How to reach me: moulz1031@gmail.com 
 

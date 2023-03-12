@@ -16,7 +16,7 @@ I love and feel passionate about Computer Vision and Robotics
 
 I mainly use GitHub to manage my private repositories (typically course projects)
 
-- :telescope: I am currently a undergraduate in Zhejiang University.
+- :telescope: I am currently an undergraduate in Zhejiang University.
 
 - :mailbox: How to reach me: moulz@zju.edu.cn.
 

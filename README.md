@@ -12,11 +12,15 @@
 ---
 
 ### :man_technologist: About Me :
-I am an undergraduate in Zhejiang University.
+I love and feel passionate about Computer Vision and Robotics
 
-- :telescope: Working on Computer Vision Research. 
+I mainly use GitHub to manage my private repositories (typically course projects)
 
-- :mailbox: How to reach me: moulz@zju.edu.cn 
+- :telescope: I am currently a undergraduate in Zhejiang University.
+
+- :mailbox: How to reach me: moulz@zju.edu.cn.
+
+I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 
 ---
 

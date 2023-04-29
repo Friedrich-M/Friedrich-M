@@ -2,14 +2,10 @@
 ### This is Moulz! Welcome to my Github page! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Friedrich-M)
-[![Telegram](https://img.shields.io/badge/-Telegram-007?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Moulz1031)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LinzhanMou)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-007?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=cIXq7Z4AAAAJ&hl=en)
+[![Gmail](https://img.shields.io/badge/-Gmail-007?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Moulz1031)
+[![Twitter](https://img.shields.io/badge/-Twitter-007?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LinzhanMou)
 
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
 
 ---
 
@@ -19,7 +15,7 @@
 
 - :seedling: I love and feel passionate about 3D Computer Vision and Robotics.
 
-- :mailbox: How to reach me: moulz@zju.edu.cn. or moulz1031@gmail.com
+- :mailbox: How to reach me: moulz@zju.edu.cn. or moulz1031@gmail.com.
 
 I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 

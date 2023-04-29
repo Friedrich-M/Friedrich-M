@@ -1,9 +1,11 @@
 ### Hi there 👋 
-### This is Friedrich-M! Welcome to my Github page! 
+### This is Moulz! Welcome to my Github page! 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Friedrich-M)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:moulz1031@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-022?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Moulz1031)
+[![Telegram](https://img.shields.io/badge/-Telegram-007?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Moulz1031)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/LinzhanMou)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-007?style=flat&logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=cIXq7Z4AAAAJ&hl=en)
+
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -12,19 +14,18 @@
 ---
 
 ### :man_technologist: About Me :
-I love and feel passionate about Computer Vision and Robotics
-
-I mainly use GitHub to manage my private repositories (typically course projects)
 
 - :telescope: I am currently an undergraduate in Zhejiang University.
 
-- :mailbox: How to reach me: moulz@zju.edu.cn.
+- :seedling: I love and feel passionate about 3D Computer Vision and Robotics.
+
+- :mailbox: How to reach me: moulz@zju.edu.cn. or moulz1031@gmail.com
 
 I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 
----
+<!-- --- -->
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -41,12 +42,12 @@ I may not be a talented researcher & coder (yet), but I can certainly be a good 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> -->
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Friedrich-M&theme=nord)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Friedrich-M&theme=nord)](https://git.io/streak-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Friedrich-M&show_icons=true&theme=nord)
 

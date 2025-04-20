@@ -2,7 +2,7 @@
 
 - :telescope: I am currently an undergraduate in Zhejiang University.
 
-- :seedling: I love and feel passionate about 3D vision and robotics.
+- :seedling: I love and feel passionate about 4D vision.
 
 - :mailbox: How to reach me: moulz@zju.edu.cn. or moulz1031@gmail.com.
 

@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-- :telescope: I'm an incoming CS PhD student at Princeton. Previouly, I received my bachelor's degree from Zhejiang University.
+- :telescope: I'm an incoming PhD student at Princeton. I received my B.S. from Zhejiang University.
 
 - :seedling: I love and feel passionate about 4D computer vision and robotics.
 

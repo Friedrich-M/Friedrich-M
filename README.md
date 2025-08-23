@@ -1,8 +1,6 @@
 ### :man_technologist: About Me :
 
-- :telescope: I'm an incoming PhD student at Princeton. I received my B.S. from Zhejiang University.
-
-<!-- - :seedling: I love and feel passionate about 4D computer vision and robotics. -->
+- :telescope: I'm a CS Ph.D. student at at Princeton. I feel passionate about 4D vision and robotics.
 
 - :mailbox: How to reach me: moulz1031@gmail.com.
 

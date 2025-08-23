@@ -1,8 +1,8 @@
 ### :man_technologist: About Me :
 
-- :telescope: I'm a CS Ph.D. student at at Princeton. I feel passionate about 4D vision and robotics.
+- :telescope: I'm a CS Ph.D. student at Princeton. I love and feel passionate about 4D vision and robotics.
 
-- :mailbox: How to reach me: moulz1031@gmail.com.
+- :mailbox: Feel free to contact me if you have any question: moulz1031@gmail.com.
 
 I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 

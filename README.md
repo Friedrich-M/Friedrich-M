@@ -2,7 +2,7 @@
 
 - :telescope: I'm a CS Ph.D. student at Princeton. I love and feel passionate about 4D vision and robotics.
 
-- :mailbox: Feel free to contact me if you have any question: moulz1031@gmail.com.
+- :mailbox: All my research projects are opensourced. Feel free to contact me if you have any question: moulz1031@gmail.com.
 
 I may not be a talented researcher & coder (yet), but I can certainly be a good friend of yours.
 
